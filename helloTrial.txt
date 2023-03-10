@@ -1,0 +1,2 @@
+this is the trial for checking of git repository
+okay I have changed my name in the git hub by now
